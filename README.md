@@ -124,7 +124,7 @@ npm run dev
 Open the address printed in the terminal (normally `http://localhost:8080`).
 
 <div align="center">
-  <img src="images/mainPage2.png" alt="Home page" width="700">
+  <img src="Images/mainPage2.png" alt="Home page" width="700">
 </div>
 
 ## Usage
@@ -137,7 +137,7 @@ Open the address printed in the terminal (normally `http://localhost:8080`).
 4. Read the result in the app and download the JSON or Markdown file.
 
 <div align="center">
-  <img src="images/sampleBook.png" alt="Home page" width="700">
+  <img src="Images/sampleBook.png" alt="Home page" width="700">
 </div>
 
 ### Command line

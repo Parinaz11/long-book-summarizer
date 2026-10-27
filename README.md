@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <img src="images/mainPage1.png" alt="Home page" width="700">
+  <img src="Images/mainPage1.png" alt="Home page" width="700">
 </div>
 
 <hr>

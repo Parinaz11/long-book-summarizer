@@ -1,0 +1,21 @@
+{
+  "name": "book-summarizer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "inspect": "node src/cli.js inspect data/dorian-gray.txt",
+    "smoke": "node --env-file=.env scripts/smoke.js",
+    "server": "node src/server.js",
+    "dev": "npm --prefix ../.. run dev",
+    "test": "vitest run",
+    "summarize": "node --env-file=.env src/cli.js summarize data/dorian-gray.txt --title \"The Picture of Dorian Gray\""
+  },
+  "dependencies": {
+    "@google/genai": "^2.31.0",
+    "openai": "^7.43.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  }
+}

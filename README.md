@@ -12,6 +12,11 @@
   <img alt="Tests" src="https://img.shields.io/badge/tests-passing-2ea44f">
 </p>
 
+
+<div align="center">
+  <img src="images/mainPage1.png" alt="Home page" width="700">
+</div>
+
 <hr>
 
 ## Overview
@@ -118,6 +123,10 @@ npm run dev
 
 Open the address printed in the terminal (normally `http://localhost:8080`).
 
+<div align="center">
+  <img src="images/mainPage2.png" alt="Home page" width="700">
+</div>
+
 ## Usage
 
 ### Web interface
@@ -126,6 +135,10 @@ Open the address printed in the terminal (normally `http://localhost:8080`).
 2. Review the estimated tokens and cost, choose the summary language, and start.
 3. Follow the chapter-by-chapter progress. If a run stops, start it again and it resumes.
 4. Read the result in the app and download the JSON or Markdown file.
+
+<div align="center">
+  <img src="images/sampleBook.png" alt="Home page" width="700">
+</div>
 
 ### Command line
 
